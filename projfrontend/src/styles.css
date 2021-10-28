@@ -1,0 +1,17 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  /* background: #343a40; */
+  background: #212529;
+}
+footer {
+  position: relative;
+  margin-top: 10%;
+  bottom: 0px;
+  left: 0px;
+  right: 0px;
+}
