@@ -10,7 +10,7 @@ projbackend- Contains all the backend files(nodejs,expressjs and mongodb)
 
 projfrontend- Contains all the frontend files(reactjs)
 
-First do --- npm install --- to install all the dependencies
+First do --- npm install --- to install all the dependencies(First delete node modules folder if exists already)
 
 Then run --- npm start --- in both projbackend and projfrontend with different instances of cmd to run the project
 
